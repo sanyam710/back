@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sub_order_id: 1
+  recipe_id: 1
+  quantity: 1
+  current_price: 1
+  current_total_price: 1
+  instruction: MyString
+
+two:
+  sub_order_id: 1
+  recipe_id: 1
+  quantity: 1
+  current_price: 1
+  current_total_price: 1
+  instruction: MyString
